@@ -1,0 +1,11 @@
+El programa se esta ejecutando...
+Pausa para eliminar  CUMPLIMIENTO sleep(60 seg)
+Pausa para eliminar  CUMPLIMIENTO_RESPALDO sleep(60 seg)
+Pausa para eliminar  CUMPLIMIENTO_KPIWEB sleep(60 seg)
+Pausa para llamar  SYSTEM_PKG_CUMPLIMIENTO.SYSTEM_ACTUALIZA_MODELO  sleep(60 seg)
+Pausa para llamar  SYSTEM_PKG_CUMPLIMIENTO.SYSTEM_CARGAR_CUMPLIMIENTO  sleep(60 seg)
+[crearTxt1]Exception:ORA-01843: not a valid month
+ORA-06512: at "TXD.SYSTEM_PKG_CUMPLIMIENTO", line 355
+ORA-06512: at line 1
+
+El programa finalizo.
